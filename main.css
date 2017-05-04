@@ -1,0 +1,41 @@
+body {
+  background-color: crimson;
+  font-family: 'Space Mono', monospace;
+}
+
+h1 {
+  background-color: mistyrose;
+  color: black;
+  font-family: 'Bungee Inline', cursive;
+  padding: 1em;
+}
+
+h2 {
+  color: white;
+}
+
+table {
+  background-color: antiquewhite;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid gray;
+  border-radius: 4px;
+  background-color: lightgreen;
+  color: white;
+}
+
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid gray;
+  border-radius: 4px;
+  background-color: lightgreen;
+  color: white;
+}
